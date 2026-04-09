@@ -12,7 +12,7 @@ Before running the script, make sure you have the necessary library installed.
 
 sudo apt-get update 
 sudo apt-get install git python python3
-git clone https://github.com/Binary-Assassin/Mischief.git
+git clone https://github.com/Binary-Assassin/EchoTrap.git
 cd Mischief
 sudo pip install -r requirements.txt
 ```
